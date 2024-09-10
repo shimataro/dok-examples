@@ -1,0 +1,13 @@
+MD004: # ul-style
+  style: asterisk
+MD007: # ul-indent
+  indent: 4
+MD024: # no-duplicate-heading
+  siblings_only: true
+MD028: false # blank line inside blockquote
+MD029: # ol-prefix
+  style: one
+MD035: # hr-style
+  style: "- - -"
+MD048: # code-fence-style
+  style: backtick

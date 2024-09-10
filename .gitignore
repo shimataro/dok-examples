@@ -1,0 +1,14 @@
+# temporary files
+*~
+*.bak
+*.tmp
+*.swp
+*.log
+
+# image cache files
+.DS_Store
+Thumbs.db
+
+# patch/merge
+*.orig
+*.rej
