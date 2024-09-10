@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"davidanson.vscode-markdownlint",
+			"EditorConfig.EditorConfig",
+			"ms-azuretools.vscode-docker"
+		]
+	}
+}
