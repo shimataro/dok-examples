@@ -2,6 +2,8 @@ MD004: # ul-style
   style: asterisk
 MD007: # ul-indent
   indent: 4
+MD013: # line-length
+  line_length: 256
 MD024: # no-duplicate-heading
   siblings_only: true
 MD028: false # blank line inside blockquote
