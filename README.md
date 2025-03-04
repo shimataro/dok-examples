@@ -7,6 +7,7 @@
 |イメージ|説明|
 |---|---|
 |[dok-example-sd](./dok-example-sd)|[Stable Diffusion](https://github.com/CompVis/stable-diffusion)を使った画像生成|
+|[dok-example-a1111](./dok-example-a1111)|[Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)による画像生成インターフェース|
 
 ## イメージの作成方法
 
